@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhargavi Kalaparty</h1>
-<h3 align="center">Data analysis and science enthusiast</h3>
+<h3 align="center">Data Analysis and Science enthusiast</h3>
 
 - A little bit about myself :
 
@@ -33,7 +33,7 @@
 
 - ⚡ Fun fact **Looking to do something big in the world of 'Big data'**
 
-# Projects:
+<h3 align="left">Projects</h3>
 
 1.	Crime data analysis of Montgomery County of Maryland – Source code can be found [here](https://github.com/BhargaviKalaparty/Violent-Crime-Data-Analysis-of-Montgomery-County-Area)
 
