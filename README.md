@@ -37,13 +37,13 @@
 
 1.	Crime data analysis of Montgomery County of Maryland – Source code can be found [here](https://github.com/BhargaviKalaparty/Violent-Crime-Data-Analysis-of-Montgomery-County-Area)
 
-2.	Statistical analysis of Retail store performance– Source code can be found [here](https://github.com/BhargaviKalaparty/Retail-Store-Performance)
+2.	Statistical analysis using logistic regression on dataset of 2012 passenger survey from San Francisco Airport (SFO) -– Source code can be found [here](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression)
 
-3.	Statistical analysis using logistic regression on dataset of 2012 passenger survey from San Francisco Airport (SFO) -– Source code can be found [here](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression)
+3.	Classic Machine learning on wine recognition dataset– Source code can be found [here](https://github.com/BhargaviKalaparty/MACHIENE-LEARNING-ANALYIS-ON-WINE-DATA-SET-)
 
-4.	Classic Machine learning on wine recognition dataset– Source code can be found [here](https://github.com/BhargaviKalaparty/MACHIENE-LEARNING-ANALYIS-ON-WINE-DATA-SET-)
-
-5.	Medical Image analysis of BloodMNIST and BreastMNIST dataset using Neural Networks– Source code can be found [here](https://github.com/BhargaviKalaparty/Medical-Image-analysis-using-Neural-Networks)
+4.	Medical Image analysis of BloodMNIST and BreastMNIST dataset using Neural Networks– Source code can be found [here](https://github.com/BhargaviKalaparty/Medical-Image-analysis-using-Neural-Networks)
+   
+5.	Statistical analysis of Retail store performance– Source code can be found [here](https://github.com/BhargaviKalaparty/Retail-Store-Performance)
 
 6.	Design and implementation of database for the shipping company ‘Everblue Ocean Express’– Source code can be found [here](https://github.com/BhargaviKalaparty/Design-and-implementation-of-database-for-the-shipping-company-Everblue-Ocean-Express-)
 
