@@ -12,7 +12,7 @@
 
   •	Worked as an HR Executive at Introlligent Solutions.
 
-  •	Analyzed recruitment data, including job postings, applicant profiles, and hiring outcomes. Your use of SQL to track recruitment metrics demonstrates your data-driven 
+  •	Analyzed recruitment data, including job postings, applicant profiles, and hiring outcomes. Usage of SQL to track recruitment metrics demonstrates data-driven 
     approach in HR.
 
   •	Conducted analysis using Python libraries to optimize recruitment strategies, identify effective sourcing channels, and make informed decisions to attract and retain 
