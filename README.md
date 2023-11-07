@@ -3,16 +3,25 @@
 
 - A little bit about myself :
 
-•	I am a passionate data analyst and science enthusiast driven by the curiosity to uncover valuable insights from interesting and diverse datasets. 
-•	My analytical interests in HR likely played a role in your decision to pursue a Master's degree in Data Science from Kingston University London. This educational choice reflects my commitment to data-driven analysis and decision-making.
-•	I hold a bachelor's degree in Information Technology. This provides a strong foundation in IT concepts and skills.
-•	Worked as an HR Executive at Introlligent Solutions.
-•	Analyzed recruitment data, including job postings, applicant profiles, and hiring outcomes. Your use of SQL to track recruitment metrics demonstrates your data-driven approach in HR.
-•	Conducted analysis using Python libraries to optimize recruitment strategies, identify effective sourcing channels, and make informed decisions to attract and retain top talent.
-•	Later, transitioned to a similar role at Concentrix Catalyst.
-•	I hope this diverse background can be a valuable asset, as it combines technical skills, human resources expertise, and data analytics knowledge, which are highly relevant in today's data-driven business world.
+  •	I am a passionate data analyst and science enthusiast driven by the curiosity to uncover valuable insights from interesting and diverse datasets. 
 
+  •	My analytical interests in HR likely played a role in your decision to pursue a Master's degree in Data Science from Kingston University London. This educational choice 
+    reflects my commitment to data-driven analysis and decision-making.
 
+  •	I hold a bachelor's degree in Information Technology. This provides a strong foundation in IT concepts and skills.
+
+  •	Worked as an HR Executive at Introlligent Solutions.
+
+  •	Analyzed recruitment data, including job postings, applicant profiles, and hiring outcomes. Your use of SQL to track recruitment metrics demonstrates your data-driven 
+    approach in HR.
+
+  •	Conducted analysis using Python libraries to optimize recruitment strategies, identify effective sourcing channels, and make informed decisions to attract and retain 
+    top talent.
+
+  •	Later, transitioned to a similar role at Concentrix Catalyst.
+
+  •	I hope this diverse background can be a valuable asset, as it combines technical skills, human resources expertise, and data analytics knowledge, which are highly 
+    relevant in today's data-driven business world.
 
 - 🔭 I’m currently working on **Time series analysis on energy data in the UK. This project leverages the use of various Machine Learning and Artificial Intelligence algorithms to identify patterns in the data and make future predictions.**
 
@@ -24,22 +33,21 @@
 
 - ⚡ Fun fact **Looking to do something big in the world of 'Big data'**
 
-Projects:
+# Projects:
 
-1.	Crime data analysis of Montgomery County of Maryland – Source code can be found [here] (https://github.com/BhargaviKalaparty/Violent-Crime-Data-Analysis-of-Montgomery-County-Area)
+1.	Crime data analysis of Montgomery County of Maryland – Source code can be found [here](https://github.com/BhargaviKalaparty/Violent-Crime-Data-Analysis-of-Montgomery-County-Area)
 
-2.	Statistical analysis of Retail store performance– Source code can be found [here] (https://github.com/BhargaviKalaparty/Retail-Store-Performance)
+2.	Statistical analysis of Retail store performance– Source code can be found [here](https://github.com/BhargaviKalaparty/Retail-Store-Performance)
 
-3.	Statistical analysis using logistic regression on dataset of 2012 passenger survey from San Francisco Airport (SFO) -– Source code can be found [here] (https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression)
+3.	Statistical analysis using logistic regression on dataset of 2012 passenger survey from San Francisco Airport (SFO) -– Source code can be found [here](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression)
 
-4.	Classic Machine learning on wine recognition dataset– Source code can be found [here] (https://github.com/BhargaviKalaparty/MACHIENE-LEARNING-ANALYIS-ON-WINE-DATA-SET-)
+4.	Classic Machine learning on wine recognition dataset– Source code can be found [here](https://github.com/BhargaviKalaparty/MACHIENE-LEARNING-ANALYIS-ON-WINE-DATA-SET-)
 
-5.	Medical Image analysis of BloodMNIST and BreastMNIST dataset using Neural Networks– Source code can be found [here] (https://github.com/BhargaviKalaparty/Medical-Image-analysis-using-Neural-Networks)
+5.	Medical Image analysis of BloodMNIST and BreastMNIST dataset using Neural Networks– Source code can be found [here](https://github.com/BhargaviKalaparty/Medical-Image-analysis-using-Neural-Networks)
 
-6.	Design and implementation of database for the shipping company ‘Everblue Ocean Express’– Source code can be found [here] (https://github.com/BhargaviKalaparty/Design-and-implementation-of-database-for-the-shipping-company-Everblue-Ocean-Express-)
+6.	Design and implementation of database for the shipping company ‘Everblue Ocean Express’– Source code can be found [here](https://github.com/BhargaviKalaparty/Design-and-implementation-of-database-for-the-shipping-company-Everblue-Ocean-Express-)
 
-7.	Flight Punctuality data warehousing and analysis– Source code can be found [here] (https://github.com/BhargaviKalaparty/-Flight-Punctuality-data-warehousing-and-analysis)
-
+7.	Flight Punctuality data warehousing and analysis– Source code can be found [here](https://github.com/BhargaviKalaparty/-Flight-Punctuality-data-warehousing-and-analysis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
