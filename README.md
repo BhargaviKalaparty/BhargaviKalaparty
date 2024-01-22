@@ -10,7 +10,7 @@
 
   •	I hold a bachelor's degree in Information Technology. This provides a strong foundation in IT concepts and skills.
 
-  •	Worked as an Analyst (HR Data) at Introlligent Solutions.
+  •	Worked as an Analyst (Talent acquisition) at Introlligent Solutions.
 
   •	Analyzed recruitment data, including job postings, applicant profiles, and hiring outcomes. Usage of SQL to track recruitment metrics demonstrates data-driven 
     approach in HR.
