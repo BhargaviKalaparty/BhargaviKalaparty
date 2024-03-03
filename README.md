@@ -5,21 +5,17 @@
 
   •	I am a passionate data analyst and science enthusiast driven by the curiosity to uncover valuable insights from interesting and diverse datasets. 
 
-  •	My analytical interests in data likely played a role in your decision to graduate with a Master's degree in Data Science from Kingston University London. This educational choice 
+  •	My analytical interests in data likely played a role in my decision to graduate with a Master's degree in Data Science from Kingston University London. This educational choice 
     reflects my commitment to data-driven analysis and decision-making.
 
   •	I hold a bachelor's degree in Information Technology. This provides a strong foundation in IT concepts and skills.
 
   •	Worked as an Analyst (Talent acquisition) at Introlligent Solutions.
 
-  •	Analyzed recruitment data, including job postings, applicant profiles, and hiring outcomes. Usage of SQL to track recruitment metrics demonstrates data-driven 
-    approach in HR.
+  •	Analyzed recruitment data. Usage of Excel, Python, Tableau and SQL to track recruitment metrics demonstrates data-driven approach.
 
   •	Conducted analysis using Python libraries to optimize recruitment strategies, identify effective sourcing channels, and make informed decisions to attract and retain 
     top talent.
-
-  •	I hope this diverse background can be a valuable asset, as it combines technical skills, human resources expertise, and data analytics knowledge, which are highly 
-    relevant in today's data-driven business world.
 
 - 🔭 I’m currently working on **Time series analysis on energy data in the UK. This project leverages the use of various Machine Learning and Artificial Intelligence algorithms to identify patterns in the data and make future predictions.**
 
